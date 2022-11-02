@@ -1,0 +1,4 @@
+﻿  CLassCircle.cpp
+D:\Year 1 Semester 2\OOC\C++ programes\Class and object questions\CLassCircle\CLassCircle\CLassCircle.cpp(23,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Year 1 Semester 2\OOC\C++ programes\Class and object questions\CLassCircle\CLassCircle\CLassCircle.cpp(32,19): error C2660: 'Circle::setRadius': function does not take 0 arguments
+D:\Year 1 Semester 2\OOC\C++ programes\Class and object questions\CLassCircle\CLassCircle\CLassCircle.cpp(14,14): message : see declaration of 'Circle::setRadius'
